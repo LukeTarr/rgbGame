@@ -72,3 +72,8 @@ button:hover {
 	color: white;
 	background: steelblue;
 }
+
+p{
+	color: white;
+	text-align: center;
+}
