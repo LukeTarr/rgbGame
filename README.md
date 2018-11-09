@@ -1,5 +1,5 @@
 # rgbGame
-From Colt Steele's Udemy course: https://www.udemy.com/the-web-developer-bootcamp/
+Based off of Colt Steele's Udemy course: https://www.udemy.com/the-web-developer-bootcamp/
 
 
 Simple website to learn RGB colors.
