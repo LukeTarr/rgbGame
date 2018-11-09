@@ -73,7 +73,10 @@ button:hover {
 	background: steelblue;
 }
 
-p{
+a{
 	color: white;
+	margin: 1%;
 	text-align: center;
+	display: block;
+	text-decoration: none;
 }
